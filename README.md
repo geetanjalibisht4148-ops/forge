@@ -9,4 +9,4 @@ This is a Kanban board application integrated with Slack, featuring autonomous a
 3. Install dependencies and run the backend/frontend servers.
 
 ## Live URL
-local deployment only
+Live deployment is in progress; please refer to the video walkthrough below for demonstration.
