@@ -10,4 +10,4 @@ This is a Kanban board application integrated with Slack, featuring autonomous a
 
 ## Live URL
 Demo Video:[click here to watch the walkthrough]
-(https://drive.google.com/file/d/1Mq7qJNPy8GmcHllYRy6XKj3y2Omuahld/view?usp=drivesdk)
+(https://drive.google.com/file/d/1ctVYFxaVwwOXz6dnCXxSMtCunsI9xqMb/view?usp=drivesdk)
